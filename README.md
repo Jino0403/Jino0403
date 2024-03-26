@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=3000&color=22ABF7&background=2D2D2D00&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Welcome+to+Jino's+Github)](https://git.io/typing-svg)
 
-<div>
+<div style={textAlign:center}>
   ✨ Tech Stack ✨
 </div>
 <div>
