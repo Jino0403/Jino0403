@@ -13,20 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h1 align="center">
-  <br>
-  <img src="https://placehold.it/200" alt="Your Logo Here">
-  <br>
-  Welcome to Jino's Github
-  <br>
-</h1>
-
-<p align="center">
-  <b>Enhancing the world, one line of code at a time.</b>
-</p>
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=3000&color=22ABF7&background=2D2D2D00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Welcome+to+Jino's+Github)](https://git.io/typing-svg)
 
 ### About Me
 
