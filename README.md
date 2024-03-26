@@ -7,7 +7,7 @@
 <br />
 
 <div align="center">
-  ⚒️ Tech Stack ⚒️
+  <h1>⚒️ Tech Stack ⚒️ </h1>
   <div align="center">
     <br />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -35,7 +35,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h1 align="center">🛠 Tools 🛠</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
