@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
   <br>
-  <img src="https://placehold.it/150" alt="Your Logo Here">
+  <img src="https://placehold.it/200" alt="Your Logo Here">
   <br>
   Welcome to Jino's Github
   <br>
